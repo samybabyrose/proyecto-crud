@@ -11,7 +11,7 @@
 
     
   </head>
-  <body background="https://www.solofondos.com/wp-content/uploads/2021/03/d3c7dfc31a16c3a3ee2a4a7b910111c7.jpg"><body>
+  <body background="https://previews.123rf.com/images/kochatornranapat/kochatornranapat1608/kochatornranapat160800169/61237041-cosm%C3%A9ticos-del-maquillaje-de-la-vendimia-en-el-fondo-de-madera-blanco-estilo-lay-plana-con-espacio.jpg"><body>
   <body class="">
 
     <div class="container-fluid">
@@ -23,7 +23,7 @@
          <div class="d-flex justify-content-center align-items-center vh-100">
          <form method="post" action="./config/Process.php">
         <div class="mb-3">
-            <label for="exampleInputEmail1" class="form-label">Email address</label>
+            <label for="exampleInputEmail1" class="form-label">usuario</label>
             <input type="email"  name ="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp">
             <div id="emailHelp" class="form-text">We'll never share your email with anyone else.</div>
         </div>
@@ -32,7 +32,7 @@
             <input type="password" name="pass" class="form-control" id="exampleInputPassword1">
         </div>
      
-        <input type="submit" name="submit" class="btn btn-primary" value="submit">
+        <button type="submit" name="submit" class="btn btn-primary" value="submit">
     </form>      
     
 
